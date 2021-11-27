@@ -1,0 +1,23 @@
+.footer {
+  text-align: center;
+  background-color: #1B262C;
+  padding: 70px;
+}
+
+.footer a {
+  color: #94B3FD;
+  font-size: 32px;
+}
+
+.footer a:hover {
+  color: #94DAFF;
+}
+
+.footer a:visited {
+  color: #94DAFF;
+}
+
+.footer p {
+  color: #99FEFF;
+  opacity: 0.4;
+}
