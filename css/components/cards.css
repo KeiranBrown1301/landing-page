@@ -4,6 +4,23 @@
   margin-bottom: 30px;
 }
 
+@media (max-width: 960px) {
+  .cards {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .cards {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .cards {
+    width: 300px;
+  }
+}
+
+
 .card {
   width: 200px;
   text-align: center;
